@@ -19,3 +19,7 @@ This is a Python-based Student Management System.
 
 ## How to Run
 python project_1_student_management_system.py
+
+## Output Screenshot
+
+![Student Management Output](student_management_output.png)
