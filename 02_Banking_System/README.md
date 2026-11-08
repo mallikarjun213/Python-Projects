@@ -18,6 +18,4 @@ This is a Python-based Banking System project.
 - Dictionaries
 
 ## How to Run
-Run the following command:
-
 python project_2_banking_system.py
