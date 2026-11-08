@@ -6,11 +6,12 @@ I am learning Python programming and building projects to improve my coding skil
 
 ## Projects
 
-1. Simple Calculator
-2. Library Management System
-3. Employee Management System
-4. Quiz Application
-5. To-Do List Management System
+1. Student Management System
+2. Banking System
+3. Library Management System
+4. Employee Management System
+5. Quiz Application
+6. To-Do List Management System
 
 ## Technologies Used
 
