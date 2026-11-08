@@ -13,15 +13,9 @@ This is a Python-based Student Management System.
 ## Technologies Used
 - Python
 - Functions
-- Lists
-- Dictionaries
+- Lists and Dictionaries
 - Loops
 - Conditional Statements
 
 ## How to Run
-1. Install Python.
-2. Download the project file.
-3. Open terminal in the project folder.
-4. Run:
-
-   python project_1_student_management_system.py
+python project_1_student_management_system.py
