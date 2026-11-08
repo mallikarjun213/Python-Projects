@@ -1,14 +1,15 @@
-# Quiz Application
+# To-Do List Management System
 
 ## About the Project
-This is a Python-based Quiz Application.
+This is a Python-based To-Do List Management System.
 
 ## Features
-- Display Quiz Questions
-- Multiple Choice Answers
-- Check Correct Answers
-- Calculate Final Score
-- Display Quiz Results
+- Add Tasks
+- View All Tasks
+- Update Tasks
+- Delete Tasks
+- Mark Tasks as Completed
+- Manage Daily Tasks
 
 ## Technologies Used
 - Python
@@ -19,4 +20,4 @@ This is a Python-based Quiz Application.
 - Conditional Statements
 
 ## How to Run
-python project_5_quiz_application.py
+python project_6_to_do_ list_management_system.py
