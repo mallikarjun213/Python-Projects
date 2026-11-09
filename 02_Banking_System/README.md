@@ -19,3 +19,7 @@ This is a Python-based Banking System project.
 
 ## How to Run
 python project_2_banking_system.py
+
+## Output Screenshot
+
+![Banking System Output](banking_system_output.png)
