@@ -21,3 +21,11 @@ This is a Python-based To-Do List Management System.
 
 ## How to Run
 python project_6_to_do_ list_management_system.py
+
+## Output Screenshots
+
+### Screenshot 1
+![To-Do List Output 1](todo_list_output_1.png)
+
+### Screenshot 2
+![To-Do List Output 2](todo_list_output_2.png)
