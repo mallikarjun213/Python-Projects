@@ -23,4 +23,4 @@ python project_5_quiz_application.py
 
 ## Output Screenshot
 
-![Library Management Output](library_management_output.png)
+![Quiz Application Output](quiz_application_output.png)
