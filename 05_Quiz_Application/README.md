@@ -20,3 +20,7 @@ This is a Python-based Quiz Application.
 
 ## How to Run
 python project_5_quiz_application.py
+
+## Output Screenshot
+
+![Library Management Output](library_management_output.png)
