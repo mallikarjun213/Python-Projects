@@ -21,3 +21,7 @@ This is a Python-based Library Management System.
 
 ## How to Run
 python project_3_library_management_system.py
+
+## Output Screenshot
+
+![Library Management Output](library_management_output.png)
