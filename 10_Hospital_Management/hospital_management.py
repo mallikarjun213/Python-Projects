@@ -636,24 +636,25 @@ def calculate_patient_bill():
             print("Empty input is not valid")
             continue
 
-        if not math.isfinite(doctor_charges):
-            print("Invalid amount")
-            continue
 
-        if not math.isfinite(medicine_charges):
-            print("Invalid amount")
-            continue
-
-        if not math.isfinite(room_charges):
-            print("Invalid amount")
-            continue
-
-        
         try:
             
             doctor_charges = float(doctor_charges)
             medicine_charges = float(medicine_charges)
             room_charges = float(room_charges)
+
+            if not math.isfinite(doctor_charges):
+                print("Invalid amount")
+                continue
+    
+            if not math.isfinite(medicine_charges):
+                print("Invalid amount")
+                continue
+    
+            if not math.isfinite(room_charges):
+                print("Invalid amount")
+                continue
+            
 
 
             if doctor_charges < 0 or medicine_charges < 0 or room_charges < 0:
@@ -664,6 +665,10 @@ def calculate_patient_bill():
             continue
 
         total_charges = doctor_charges + medicine_charges + room_charges
+
+        if not math.isfinite(total_charges):
+            print("Total bill is too large")
+            continue
 
         print("=====Hospital Bill=====")
         print(f"Doctor charges:{doctor_charges}")
